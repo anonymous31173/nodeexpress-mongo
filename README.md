@@ -1,18 +1,1 @@
-# NodeExpressMongo
-
-## Objective
-
-
-
-## Usage
-
-
-
-## Developing
-
-
-
-### Tools
-
-Created with [Nodeclipse v0.5](https://github.com/Nodeclipse/nodeclipse-1)
- ([Eclipse Marketplace](http://marketplace.eclipse.org/content/nodeclipse), [site](http://www.nodeclipse.org))   
+For details on this project and similar post please visit  my blog https://gigadom.wordpress.com/
